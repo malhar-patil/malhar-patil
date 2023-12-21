@@ -1,5 +1,5 @@
 # 📎 About Me:
-🔭 I’m currently working on developing a cross platform file management system for networked computers<br>👯 I’m looking to collaborate on projects that involve software development and building GUIs for python applications. I'm open to collaborations that challenge and expand my skills in these areas.<br>🤝 I’m looking for help with enhancing my MySQL skills as I delve deeper into database management. <br>🌱 I’m currently learning MySQL for robust database management and Docker for streamlined deployment. <br>💬 Ask me about file management, GUI development, Linux, Git, or anything related to my current tech projects!<br>⚡ Fun fact "=" and "==" are not the same 😢
+🔭 I’m currently working on developing a cross platform file management system for networked computers<br>👯 I’m looking to collaborate on projects that involve software development and building GUIs for python applications. <br>🌱 I’m currently learning MySQL for robust database management and Docker for streamlined deployment. <br>💬 Ask me about file management, GUI development, Linux, Git, or anything related to my current tech projects!<br>⚡ Fun fact "=" and "==" are not the same 😢
 
 
 ## 🔗 Socials:
