@@ -1,6 +1,9 @@
-# 📎 About Me:
-🔭 I’m currently working on developing a cross platform file management system for networked computers<br>👯 I’m looking to collaborate on projects that involve software development and building GUIs for python applications. <br>🌱 I’m currently learning MySQL for robust database management and Docker for streamlined deployment. <br>💬 Ask me about file management, GUI development, Linux, Git, or anything related to my current tech projects!<br>⚡ Fun fact "=" and "==" are not the same 😢
-
+#### 📎 About Me
+Most of what I enjoy about software is working out how something functions and
+then building with what I've learned. Operating systems, networking, and machine
+control have all held my attention that way — part of the appeal is that they're
+knowable, you can always trace what happened and why. I like leaving a project
+in a state where it works without me.
 
 ## 🔗 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/malhar09) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/malhar8771) 
